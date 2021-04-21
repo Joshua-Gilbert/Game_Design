@@ -1,0 +1,9 @@
+WW1 Shooter
+Robert Bone, Josh, Micah
+
+To win the game, kill the enemy planes and complete all levels.
+The game will edjucate the user about the planes used in the game and basics of their technologies while providing a fun game to play.
+
+Controls:
+Use the arrow keys to move the plane
+Use the space bar to shoot
